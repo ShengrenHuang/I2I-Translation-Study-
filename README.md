@@ -1,4 +1,6 @@
-# I2I-Translation-Testing
+# I2I-Translation-Study-
+
+This is the study of image-to-image translation.
 
 Image-to-Image Translation with Conditional Adversarial Networks (寫一點I2I的介紹)
 
