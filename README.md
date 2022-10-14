@@ -10,7 +10,7 @@ Prevent color deviations in the enhanced image.
 4. Illumination Smoothness Loss:  
 Retain the monotonicity relations between neighboring pixels.
 
-The test and output images through [] are attached below.
+The test and output images through [5] are attached below.
 
 
 
