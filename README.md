@@ -26,8 +26,8 @@ Since some output images contain noise-like spots, I believe that we can modify 
 
 
 ## References
-[1] Image-to-Image Translation with Conditional Adversarial Networks
-[2] Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
-[3] Contrastive Learning for Unpaired Image-to-Image Translation
-[4] Zero-Reference Deep Curve Estimation for Low-Light Image Enhancement  
+[1] Image-to-Image Translation with Conditional Adversarial Networks   
+[2] Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks  
+[3] Contrastive Learning for Unpaired Image-to-Image Translation  
+[4] Zero-Reference Deep Curve Estimation for Low-Light Image Enhancement    
 [5] https://github.com/Li-Chongyi/Zero-DCE  
