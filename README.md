@@ -28,6 +28,6 @@ Since some output images contain noise-like spots, I believe that we can modify 
 ## References
 [1] Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, and Alexei A. Efros, Image-to-Image Translation with Conditional Adversarial Networks, 2016.  
 [2] Jun-Yan Zhu, Taesung Park, Phillip Isola, and Alexei A. Efros, Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks, 2017.  
-[3] Taesung Park, Alexei A. Efros, Richard Zhang, and Jun-Yan Zhu, Contrastive Learning for Unpaired Image-to-Image Translation, 2020.
-[4] Chunle Guo, Chongyi Li, Jichang Guo, Chen Change Loy, Junhui Hou, Sam Kwong, and Runmin Cong, Zero-Reference Deep Curve Estimation for Low-Light Image Enhancement, 2020.      
+[3] Taesung Park, Alexei A. Efros, Richard Zhang, and Jun-Yan Zhu, Contrastive Learning for Unpaired Image-to-Image Translation, 2020.   
+[4] Chunle Guo, Chongyi Li, Jichang Guo, Chen Change Loy, Junhui Hou, Sam Kwong, and Runmin Cong, Zero-Reference Deep Curve Estimation for Low-Light Image Enhancement, 2020.        
 [5] [Li-Chongyi/Zero-DCE](https://github.com/Li-Chongyi/Zero-DCE)  
