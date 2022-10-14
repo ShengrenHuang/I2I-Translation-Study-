@@ -20,6 +20,8 @@ The test and output images through [] are attached below.
 
 ![69 (1) (1)](https://user-images.githubusercontent.com/108604868/195603491-4538a51f-4e25-49ee-bbf3-23d6b92bf4ed.jpg)
 
+## New Idea
+
 Since some output images contain noise-like spots, I believe that we can modify the illumination smoothness loss by taking into account the second derivative or higher derivative on the curve parameter map. That is to say, further improve the illumination smoothness with higher order. We are still working on it.
 
 
