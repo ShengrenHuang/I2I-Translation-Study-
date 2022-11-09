@@ -15,10 +15,10 @@ The test and output images through [5] are attached below.
 
 
 
-![69 (1) (1)](https://user-images.githubusercontent.com/108604868/195603127-df2b8ad8-551f-4239-bd16-14097238aae8.jpg)
+![72](https://user-images.githubusercontent.com/108604868/200911039-8d1433ce-2bba-4c32-9780-16d08704c885.jpg)
 
 
-![69 (1) (1)](https://user-images.githubusercontent.com/108604868/195603491-4538a51f-4e25-49ee-bbf3-23d6b92bf4ed.jpg)
+![72](https://user-images.githubusercontent.com/108604868/200911091-8ab569fb-13de-4700-a869-52e6ba12efc5.jpg)
 
 ## New Idea
 
